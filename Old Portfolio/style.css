@@ -1,0 +1,90 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+h5 {
+  color: white;
+}
+
+a {
+  color: rgb(46, 46, 255);
+}
+
+.darkcyan {
+  color: DarkCyan;
+}
+
+.brown {
+  color: #4b2d0b;
+}
+
+.green {
+  color: Green;
+}
+
+.bar {
+  overflow: hidden;
+}
+
+button {
+  border-radius: 100%;
+  background-color: red;
+  border: solid 5px;
+  border-color: white;
+  color: white;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+button:hover {
+  border-radius: 100%;
+  background-color: rgb(128, 0, 0);
+  border-color: red;
+  color: red;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+.active {
+  border-radius: 100%;
+  background-color: white;
+  border-color: red;
+  color: red;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.navy {
+  color: rgb(0, 0, 63);
+}
+
+.black {
+  color: black;
+}
